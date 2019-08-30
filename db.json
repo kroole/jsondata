@@ -1,18 +1,22 @@
-[ 
+[
     {
-      "entry.name" : "Iris.DataCollection.CmdLine.exp",
+      "name" : "Iris.DataCollection.CmdLine.exp",
       "entry.path" : "visualization_x64"
-    },{
-      "entry.name" : "boost_thread-vc120-mt-1_55.dll",
-      "entry.path" : "visualization_x64"
-    },{
-      "entry.name" : "image_app_logistics.txt",
-      "entry.path" : "Flashimages/Full_Mmpc5_B1_Release_NoNM"
-    },{
-      "entry.name" : "CommandLine.dll",
-      "entry.path" : "visualization_x64"
-    },{
-      "entry.name" : "image_app.s19",
-      "entry.path" : "Flashimages/Full_Mmpc5_B1_Release_NoNM"
+    },
+    {
+      "name" : "boost_thread-vc120-mt-1_55.dll",
+      "path" : "visualization_x64"
+    },
+    {
+      "name" : "image_app_logistics.txt",
+      "path" : "Flashimages/Full_Mmpc5_B1_Release_NoNM"
+    },
+    {
+      "name" : "CommandLine.dll",
+      "path" : "visualization_x64"
+    },
+    {
+      "name" : "image_app.s19",
+      "path" : "Flashimages/Full_Mmpc5_B1_Release_NoNM"
     }
-  ]
+]
