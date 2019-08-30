@@ -1,52 +1,21 @@
-[
-        {
-          "name":".git"
-        },
-        {
-          "name": "node_modules"
-        },
-        {
-          "name": "public",
-          "children": [
-            {
-              "name": "static",
-              "children": [{
-                "name": "logo.png",
-                "file": "png"
-              }]
-            },
-            {
-              "name": "favicon.ico",
-              "file": "png"
-            },
-            {
-              "name": "index.html",
-              "file": "html"
-            }
-          ]
-        },
-        {
-          "name": ".gitignore",
-          "file": "txt"
-        },
-        {
-          "name": "babel.config.js",
-          "file": "js"
-        },
-        {
-          "name": "package.json",
-          "file": "json"
-        },
-        {
-          "name": "README.md",
-          "file": "md"
-        },
-        {
-          "name": "vue.config.js",
-          "file": "js"
-        },
-        {
-          "name": "yarn.lock",
-          "file": "txt"
-        }
-]
+[ 
+    {
+      "entry.name" : "Iris.DataCollection.CmdLine.exp",
+      "entry.path" : "visualization_x64"
+    },{
+      "entry.name" : "boost_thread-vc120-mt-1_55.dll",
+      "entry.path" : "visualization_x64"
+    },{
+      "entry.name" : "image_app_logistics.txt",
+      "entry.path" : "Flashimages/Full_Mmpc5_B1_Release_NoNM"
+    },{
+      "entry.name" : "CommandLine.dll",
+      "entry.path" : "visualization_x64"
+    },{
+      "entry.name" : "image_app.s19",
+      "entry.path" : "Flashimages/Full_Mmpc5_B1_Release_NoNM"
+    },{
+      "entry.name" : "Microsoft.Expression.Interactions.resources.dll",
+      "entry.path" : "visualization_x64/de"
+    } 
+  ]
