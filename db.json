@@ -1,21 +1,26 @@
 [
     {
+      "id" : 1,
       "name" : "Iris.DataCollection.CmdLine.exp",
-      "entry" : "visualization_x64"
+      "path" : "visualization_x64"
     },
     {
+      "id" : 2,
       "name" : "boost_thread-vc120-mt-1_55.dll",
       "path" : "visualization_x64"
     },
     {
+      "id" : 3,
       "name" : "image_app_logistics.txt",
       "path" : "Flashimages/Full_Mmpc5_B1_Release_NoNM"
     },
     {
+      "id" : 4,
       "name" : "CommandLine.dll",
       "path" : "visualization_x64"
     },
     {
+      "id" : 5,
       "name" : "image_app.s19",
       "path" : "Flashimages/Full_Mmpc5_B1_Release_NoNM"
     }
