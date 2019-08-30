@@ -1,7 +1,7 @@
 [
     {
       "name" : "Iris.DataCollection.CmdLine.exp",
-      "entry.path" : "visualization_x64"
+      "entry" : "visualization_x64"
     },
     {
       "name" : "boost_thread-vc120-mt-1_55.dll",
